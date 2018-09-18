@@ -1,2 +1,2 @@
 # Tarea_3
-Lenguajes de Programación LPW72-2
+Tarea 3 Lenguajes de Programación LPW72-2
